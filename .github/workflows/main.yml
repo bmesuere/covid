@@ -29,3 +29,7 @@ jobs:
       
       - name: Run code
         run: yarn run run
+      
+      - uses: stefanzweifel/git-auto-commit-action@v4.6.0
+        with:
+          commit_message: "Update data"
