@@ -1,0 +1,15 @@
+{
+  "name": "covid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bart Mesuere <Bart.Mesuere@UGent.be>",
+  "license": "MIT",
+  "type":"module",
+  "scripts": {
+    "run": "node --harmony-top-level-await index.js"
+  },
+  "dependencies": {
+    "d3": "^6.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
