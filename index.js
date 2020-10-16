@@ -10,6 +10,9 @@ const deathsUrl = "https://epistat.sciensano.be/Data/COVID19BE_MORT.json";
 // we only want it to be a new day after 4 am -> -4
 // utc offset -> +2
 const today = d3.timeFormat("%Y-%m-%d")(d3.utcHour.offset(Date.now(), -2));
+const d_1 = d3.timeFormat("%Y-%m-%d")(d3.timeDay.offset(Date.parse(today), -1));
+const d_2 = d3.timeFormat("%Y-%m-%d")(d3.timeDay.offset(Date.parse(today), -2));
+const d_3 = d3.timeFormat("%Y-%m-%d")(d3.timeDay.offset(Date.parse(today), -3));
 
 async function processData(url, key, w = 7) {
   const rawData = await (await fetch(url)).json();
@@ -46,12 +49,13 @@ function toCSV(data) {
   return result.concat(data.map(d => CSVLine(Object.values(d)))).join("\n");
 }
 
-async function generateFile(url, field, filename) {
-  const data = await processData(url, field);
+async function generateFile(url, field, filename, filter = []) {
+  let data = await processData(url, field);
+  data = data.filter(d => !filter.includes(d.DATE));
   await fs.writeFile(filename, toCSV(data));
 }
 
-generateFile(casesUrl, "CASES", "data/cases.csv");
-generateFile(testsUrl, "TESTS_ALL", "data/tests.csv");
-generateFile(hospiUrl, "NEW_IN", "data/hospi.csv");
-generateFile(deathsUrl, "DEATHS", "data/deaths.csv");
+generateFile(casesUrl, "CASES", "data/cases.csv", [today, d_1, d_2, d_3]);
+generateFile(testsUrl, "TESTS_ALL", "data/tests.csv", [today, d_1, d_2, d_3]);
+generateFile(hospiUrl, "NEW_IN", "data/hospi.csv", [today]);
+generateFile(deathsUrl, "DEATHS", "data/deaths.csv", [today, d_1, d_2, d_3]);
