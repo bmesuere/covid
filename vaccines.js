@@ -11,7 +11,10 @@ const yesterday = d3.timeFormat("%Y-%m-%d")(d3.timeDay.offset(Date.parse(today),
 
 const vaccinesTotal = await getTotalVaccinations();
 const vaccineData = await getFileContent();
-vaccineData.push(`"${yesterday}","Belgium",${vaccinesTotal}`);
+vaccineData.push(`"${yesterday}","Belgium",${vaccinesTotal.belgium}`);
+vaccineData.push(`"${yesterday}","Brussels",${vaccinesTotal.brussels}`);
+vaccineData.push(`"${yesterday}","Flanders",${vaccinesTotal.flanders}`);
+vaccineData.push(`"${yesterday}","Wallonia",${vaccinesTotal.wallonia}`);
 await writeFileContent(vaccineData);
 
 async function getTotalVaccinations() {
@@ -19,15 +22,19 @@ async function getTotalVaccinations() {
   const page = await browser.newPage();
   await page.goto(dashboardUrl);
   await page.waitForTimeout(10000);
-  const totalVaccinated = await page.evaluate(() => +document.querySelector('.scorecard-component').textContent.trim().replaceAll(/[.,]/g, ""));
+  const belgiumVaccinated = await page.evaluate(() => +document.querySelector('.scorecard-component').textContent.trim().replaceAll(/[.,]/g, ""));
+  const brusselsVaccinated = await page.evaluate(() => +document.querySelector('[title="Brussels"]').parentElement.querySelector(":nth-child(2)").textContent.trim().replaceAll(/[.,]/g, ""));
+  const flandersVaccinated = await page.evaluate(() => +document.querySelector('[title="Flanders"]').parentElement.querySelector(":nth-child(2)").textContent.trim().replaceAll(/[.,]/g, ""));
+  const walloniaVaccinated = await page.evaluate(() => +document.querySelector('[title="Wallonia"]').parentElement.querySelector(":nth-child(2)").textContent.trim().replaceAll(/[.,]/g, ""));
   await browser.close();
-  return totalVaccinated;
+  return {belgium: belgiumVaccinated, brussels: brusselsVaccinated, flanders: flandersVaccinated, wallonia: walloniaVaccinated};
 }
 
 async function getFileContent() {
   return (await fs.readFile(dataFile, 'utf8'))
     .split("\n")
-    .filter(line => !line.includes(yesterday));
+    .filter(line => !line.includes(yesterday))
+    .filter(line => line !== "");
 }
 
 async function writeFileContent(content) {
