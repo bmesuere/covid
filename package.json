@@ -4,12 +4,14 @@
   "main": "index.js",
   "author": "Bart Mesuere <Bart.Mesuere@UGent.be>",
   "license": "MIT",
-  "type":"module",
+  "type": "module",
   "scripts": {
-    "run": "node --harmony-top-level-await index.js"
+    "run": "node --harmony-top-level-await index.js",
+    "run-vaccines": "node --harmony-top-level-await vaccines.js"
   },
   "dependencies": {
     "d3": "^6.2.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.5.0"
   }
 }
