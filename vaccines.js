@@ -18,7 +18,7 @@ async function getTotalVaccinations() {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.goto(dashboardUrl);
-  await page.waitForTimeout(5000);
+  await page.waitForTimeout(10000);
   const totalVaccinated = await page.evaluate(() => +document.querySelector('.scorecard-component').textContent.trim().replaceAll(/[.,]/g, ""));
   await browser.close();
   return totalVaccinated;
