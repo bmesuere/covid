@@ -11,7 +11,7 @@ const yesterday = d3.timeFormat("%Y-%m-%d")(d3.timeDay.offset(Date.parse(today),
 
 const vaccinesTotal = await getTotalVaccinations();
 const vaccineData = await getFileContent();
-vaccineData.push(`${yesterday},Belgium,${vaccinesTotal}`);
+vaccineData.push(`"${yesterday}","Belgium",${vaccinesTotal}`);
 await writeFileContent(vaccineData);
 
 async function getTotalVaccinations() {
