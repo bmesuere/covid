@@ -7,7 +7,7 @@ const dashboardUrl = "https://datastudio.google.com/embed/reporting/c14a5cfc-cab
 const dataFile = "data/vaccines_cumulative.csv";
 
 const today = d3.timeFormat("%Y-%m-%d")(d3.utcHour.offset(Date.now(), -2));
-const yesterday = d3.timeFormat("%Y-%m-%d")(d3.timeDay.offset(Date.parse(today), -1));
+const yesterday = d3.timeFormat("%Y-%m-%d")(d3.timeDay.offset(Date.parse(today), -2));
 
 const vaccinesTotal = await getTotalVaccinations();
 const vaccineData = await getFileContent();
