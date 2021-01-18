@@ -34,7 +34,7 @@ async function getFileContent() {
   return (await fs.readFile(dataFile, 'utf8'))
     .split("\n")
     .filter(line => !line.includes(yesterday))
-    .filter(line => line === "");
+    .filter(line => line !== "");
 }
 
 async function writeFileContent(content) {
