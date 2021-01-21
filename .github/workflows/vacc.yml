@@ -21,8 +21,8 @@ jobs:
       
       - name: Fetch data
         run: |
-          cd data
-          wget -q ${{ secrets.URL_CSV }} -O VACC.csv
+          wget -q ${{ secrets.URL_CSV }} -O data/VACC.csv
+          wget -q ${{ secrets.URL_CSV }} -O data/archive/VACC_`date +'%Y-%m-%d'`.csv
 
       
       - uses: stefanzweifel/git-auto-commit-action@v4.6.0
