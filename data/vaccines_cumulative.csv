@@ -95,7 +95,11 @@ DATE,REGION,VACCINES_TOTAL
 "2021-01-20","Brussels",11536
 "2021-01-20","Flanders",79115
 "2021-01-20","Wallonia",50730
-"2021-01-21","Belgium",162945
-"2021-01-21","Brussels",NaN
-"2021-01-21","Flanders",NaN
-"2021-01-21","Wallonia",NaN
+"2021-01-21","Belgium",163240
+"2021-01-21","Brussels",12342
+"2021-01-21","Flanders",94251
+"2021-01-21","Wallonia",56218
+"2021-01-22","Belgium",183882
+"2021-01-22","Brussels",12942
+"2021-01-22","Flanders",108910
+"2021-01-22","Wallonia",61510
