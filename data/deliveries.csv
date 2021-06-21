@@ -1,0 +1,369 @@
+DATE,TYPE,REGION,VIALS,DOSES_PER_VIAL,DOSES,MAX_DOSES_PER_VIAL,MAX_DOSES
+2020-12-26,Pfizer/BioNTech,Flanders,1950,5,9750,5,9750
+2021-01-04,Pfizer/BioNTech,Stock,1755,5,8775,5,8775
+2021-01-04,Pfizer/BioNTech,Flanders,8775,5,43875,5,43875
+2021-01-04,Pfizer/BioNTech,Wallonia,7215,5,36075,5,36075
+2021-01-04,Pfizer/BioNTech,Brussels,1560,5,7800,5,7800
+2021-01-04,Pfizer/BioNTech,Ostbelgien,390,5,1950,5,1950
+2021-01-05,Pfizer/BioNTech,Flanders,7215,5,36075,5,36075
+2021-01-05,Pfizer/BioNTech,Wallonia,3120,5,15600,5,15600
+2021-01-05,Pfizer/BioNTech,Brussels,1170,5,5850,5,5850
+2021-01-05,Pfizer/BioNTech,Ostbelgien,195,5,975,5,975
+2021-01-06,Pfizer/BioNTech,Wallonia,585,5,2925,5,2925
+2021-01-07,Pfizer/BioNTech,Wallonia,585,5,2925,5,2925
+2021-01-11,Pfizer/BioNTech,Flanders,195,5,975,5,975
+2021-01-11,Pfizer/BioNTech,Stock,-195,5,-975,5,-975
+2021-01-11,Pfizer/BioNTech,Wallonia,2145,5,10725,5,10725
+2021-01-11,Pfizer/BioNTech,Brussels,585,5,2925,5,2925
+2021-01-12,Pfizer/BioNTech,Flanders,10725,5,53625,5,53625
+2021-01-12,Pfizer/BioNTech,Wallonia,5655,5,28275,5,28275
+2021-01-12,Pfizer/BioNTech,Brussels,390,5,1950,5,1950
+2021-01-15,Moderna,Flanders,920,10,9200,10,9200
+2021-01-15,Moderna,Wallonia,1380,10,13800,10,13800
+2021-01-15,Moderna,Brussels,460,10,4600,10,4600
+2021-01-15,Moderna,Ostbelgien,100,10,1000,10,1000
+2021-01-18,Moderna,Stock,40,10,400,10,400
+2021-01-18,Pfizer/BioNTech,Stock,-1170,6,-7020,6,-7020
+2021-01-18,Moderna,Brussels,100,10,1000,10,1000
+2021-01-18,Pfizer/BioNTech,Brussels,780,6,4680,6,4680
+2021-01-18,Pfizer/BioNTech,Flanders,1170,6,7020,6,7020
+2021-01-18,Pfizer/BioNTech,Wallonia,1365,6,8190,6,8190
+2021-01-19,Pfizer/BioNTech,Flanders,4875,6,29250,6,29250
+2021-01-19,Pfizer/BioNTech,Wallonia,1170,6,7020,6,7020
+2021-01-20,Pfizer/BioNTech,Flanders,5070,6,30420,6,30420
+2021-01-20,Pfizer/BioNTech,Brussels,1170,6,7020,6,7020
+2021-01-24,AstraZeneca,Wallonia,2710,10,27100,10,27100
+2021-01-24,AstraZeneca,Brussels,880,10,8800,10,8800
+2021-01-24,AstraZeneca,Ostbelgien,50,10,500,10,500
+2021-01-24,AstraZeneca,Other,200,10,2000,10,2000
+2021-01-24,AstraZeneca,Stock,30,10,300,10,300
+2021-01-25,Pfizer/BioNTech,Stock,975,6,5850,6,5850
+2021-01-25,Pfizer/BioNTech,Flanders,3315,6,19890,6,19890
+2021-01-25,Pfizer/BioNTech,Wallonia,3705,6,22230,6,22230
+2021-01-25,Pfizer/BioNTech,Brussels,585,6,3510,6,3510
+2021-01-25,Pfizer/BioNTech,Ostbelgien,195,6,1170,6,1170
+2021-01-26,Pfizer/BioNTech,Flanders,3120,6,18720,6,18720
+2021-01-26,Pfizer/BioNTech,Wallonia,1170,6,7020,6,7020
+2021-01-30,Moderna,Brussels,190,10,1900,10,1900
+2021-01-30,Moderna,Ostbelgien,100,10,1000,10,1000
+2021-02-01,Pfizer/BioNTech,Flanders,7410,6,44460,6,44460
+2021-02-01,Pfizer/BioNTech,Wallonia,3315,6,19890,6,19890
+2021-02-01,Pfizer/BioNTech,Brussels,1170,6,7020,6,7020
+2021-02-02,Pfizer/BioNTech,Stock,195,6,1170,6,1170
+2021-02-02,Pfizer/BioNTech,Flanders,2145,6,12870,6,12870
+2021-02-02,Pfizer/BioNTech,Wallonia,1560,6,9360,6,9360
+2021-02-02,Pfizer/BioNTech,Brussels,195,6,1170,6,1170
+2021-02-02,Pfizer/BioNTech,Ostbelgien,195,6,1170,6,1170
+2021-02-04,Moderna,Flanders,1370,10,13700,10,13700
+2021-02-04,Moderna,Stock,20,10,200,10,200
+2021-02-05,AstraZeneca,Flanders,2770,10,27700,10,27700
+2021-02-05,AstraZeneca,Wallonia,1500,10,15000,10,15000
+2021-02-05,AstraZeneca,Brussels,480,10,4800,10,4800
+2021-02-05,AstraZeneca,Ostbelgien,30,10,300,10,300
+2021-02-05,AstraZeneca,Stock,20,10,200,10,200
+2021-02-08,Pfizer/BioNTech,Other,195,6,1170,6,1170
+2021-02-08,Pfizer/BioNTech,Stock,-390,6,-2340,6,-2340
+2021-02-08,Pfizer/BioNTech,Flanders,7605,6,45630,6,45630
+2021-02-08,Pfizer/BioNTech,Wallonia,3315,6,19890,6,19890
+2021-02-08,Pfizer/BioNTech,Brussels,1170,6,7020,6,7020
+2021-02-09,Pfizer/BioNTech,Flanders,2340,6,14040,6,14040
+2021-02-09,Pfizer/BioNTech,Wallonia,1755,6,10530,6,10530
+2021-02-09,Pfizer/BioNTech,Brussels,195,6,1170,6,1170
+2021-02-09,Pfizer/BioNTech,Ostbelgien,195,6,1170,6,1170
+2021-02-10,AstraZeneca,Flanders,3320,10,33200,10,33200
+2021-02-10,AstraZeneca,Wallonia,1800,10,18000,10,18000
+2021-02-10,AstraZeneca,Brussels,580,10,5800,10,5800
+2021-02-10,AstraZeneca,Ostbelgien,30,10,300,10,300
+2021-02-10,AstraZeneca,Stock,30,10,300,10,300
+2021-02-15,Pfizer/BioNTech,Stock,390,6,2340,6,2340
+2021-02-15,Pfizer/BioNTech,Flanders,8970,6,53820,6,53820
+2021-02-15,Pfizer/BioNTech,Wallonia,3900,6,23400,6,23400
+2021-02-15,Pfizer/BioNTech,Brussels,1560,6,9360,6,9360
+2021-02-16,Pfizer/BioNTech,Flanders,2730,6,16380,6,16380
+2021-02-16,Pfizer/BioNTech,Wallonia,1560,6,9360,6,9360
+2021-02-16,Pfizer/BioNTech,Brussels,390,6,2340,6,2340
+2021-02-17,AstraZeneca,Flanders,5540,10,55400,10,55400
+2021-02-17,AstraZeneca,Wallonia,3000,10,30000,10,30000
+2021-02-17,AstraZeneca,Brussels,970,10,9700,10,9700
+2021-02-17,AstraZeneca,Ostbelgien,60,10,600,10,600
+2021-02-17,AstraZeneca,Stock,30,10,300,10,300
+2021-02-22,Pfizer/BioNTech,Stock,1560,6,9360,6,9360
+2021-02-22,Pfizer/BioNTech,Flanders,7605,6,45630,6,45630
+2021-02-22,Pfizer/BioNTech,Wallonia,3705,6,22230,6,22230
+2021-02-22,Pfizer/BioNTech,Brussels,1950,6,11700,6,11700
+2021-02-23,Pfizer/BioNTech,Flanders,2535,6,15210,6,15210
+2021-02-23,Pfizer/BioNTech,Wallonia,1755,6,10530,6,10530
+2021-02-23,Pfizer/BioNTech,Brussels,780,6,4680,6,4680
+2021-02-23,Pfizer/BioNTech,Ostbelgien,195,6,1170,6,1170
+2021-02-24,AstraZeneca,Flanders,5010,10,50100,10,50100
+2021-02-25,Moderna,Flanders,2610,10,26100,10,26100
+2021-02-25,Moderna,Wallonia,1470,10,14700,10,14700
+2021-02-25,Moderna,Brussels,700,10,7000,10,7000
+2021-02-25,Moderna,Stock,20,10,200,10,200
+2021-03-01,Pfizer/BioNTech,Stock,1365,6,8190,6,8190
+2021-03-01,Pfizer/BioNTech,Flanders,6630,6,39780,6,39780
+2021-03-01,Pfizer/BioNTech,Wallonia,4095,6,24570,6,24570
+2021-03-01,Pfizer/BioNTech,Brussels,1950,6,11700,6,11700
+2021-03-02,Pfizer/BioNTech,Flanders,3120,6,18720,6,18720
+2021-03-02,Pfizer/BioNTech,Wallonia,1365,6,8190,6,8190
+2021-03-02,Pfizer/BioNTech,Brussels,585,6,3510,6,3510
+2021-03-03,AstraZeneca,Flanders,7210,10,72100,10,72100
+2021-03-03,AstraZeneca,Wallonia,3900,10,39000,10,39000
+2021-03-03,AstraZeneca,Brussels,1270,10,12700,10,12700
+2021-03-03,AstraZeneca,Ostbelgien,80,10,800,10,800
+2021-03-03,AstraZeneca,Stock,20,10,200,10,200
+2021-03-08,Pfizer/BioNTech,Stock,1170,6,7020,6,7020
+2021-03-08,Pfizer/BioNTech,Flanders,7605,6,45630,6,45630
+2021-03-08,Pfizer/BioNTech,Wallonia,3315,6,19890,6,19890
+2021-03-08,Pfizer/BioNTech,Brussels,2145,6,12870,6,12870
+2021-03-09,Pfizer/BioNTech,Flanders,2145,6,12870,6,12870
+2021-03-09,Pfizer/BioNTech,Wallonia,2535,6,15210,6,15210
+2021-03-09,Pfizer/BioNTech,Brussels,585,6,3510,6,3510
+2021-03-10,AstraZeneca,Flanders,3260,10,32600,10,32600
+2021-03-10,AstraZeneca,Wallonia,1760,10,17600,10,17600
+2021-03-10,AstraZeneca,Brussels,570,10,5700,10,5700
+2021-03-10,AstraZeneca,Ostbelgien,40,10,400,10,400
+2021-03-10,AstraZeneca,Other,360,10,3600,10,3600
+2021-03-10,AstraZeneca,Stock,10,10,100,10,100
+2021-03-12,Moderna,Flanders,3520,10,35200,10,35200
+2021-03-12,Moderna,Wallonia,1970,10,19700,10,19700
+2021-03-12,Moderna,Brussels,860,10,8600,10,8600
+2021-03-12,Moderna,Ostbelgien,10,10,100,10,100
+2021-03-15,Pfizer/BioNTech,Stock,1560,6,9360,6,9360
+2021-03-15,Pfizer/BioNTech,Flanders,6630,6,39780,6,39780
+2021-03-15,Pfizer/BioNTech,Wallonia,3900,6,23400,6,23400
+2021-03-15,Pfizer/BioNTech,Brussels,1560,6,9360,6,9360
+2021-03-16,Pfizer/BioNTech,Flanders,3900,6,23400,6,23400
+2021-03-16,Pfizer/BioNTech,Wallonia,1560,6,9360,6,9360
+2021-03-16,Pfizer/BioNTech,Brussels,390,6,2340,6,2340
+2021-03-17,AstraZeneca,Flanders,1520,10,15200,10,15200
+2021-03-17,AstraZeneca,Wallonia,830,10,8300,10,8300
+2021-03-17,AstraZeneca,Brussels,270,10,2700,10,2700
+2021-03-17,AstraZeneca,Ostbelgien,20,10,200,10,200
+2021-03-22,Pfizer/BioNTech,Flanders,20280,6,121680,7,141960
+2021-03-22,Pfizer/BioNTech,Stock,-5655,6,-33930,7,-39585
+2021-03-22,Pfizer/BioNTech,Wallonia,9360,6,56160,7,65520
+2021-03-22,Pfizer/BioNTech,Brussels,3510,6,21060,7,24570
+2021-03-22,Pfizer/BioNTech,Ostbelgien,195,6,1170,7,1365
+2021-03-23,Pfizer/BioNTech,Wallonia,1755,6,10530,7,12285
+2021-03-25,AstraZeneca,Flanders,1660,10,16600,12,19920
+2021-03-25,AstraZeneca,Wallonia,900,10,9000,12,10800
+2021-03-25,AstraZeneca,Brussels,300,10,3000,12,3600
+2021-03-25,AstraZeneca,Ostbelgien,20,10,200,12,240
+2021-03-26,Moderna,Flanders,5550,10,55500,12,66600
+2021-03-26,Moderna,Wallonia,3010,10,30100,12,36120
+2021-03-26,Moderna,Brussels,980,10,9800,12,11760
+2021-03-26,Moderna,Ostbelgien,60,10,600,12,720
+2021-03-29,Pfizer/BioNTech,Flanders,17355,6,104130,7,121485
+2021-03-29,Pfizer/BioNTech,Wallonia,9165,6,54990,7,64155
+2021-03-29,Pfizer/BioNTech,Brussels,2925,6,17550,7,20475
+2021-03-29,Pfizer/BioNTech,Ostbelgien,390,6,2340,7,2730
+2021-03-31,AstraZeneca,Flanders,14970,10,149700,12,179640
+2021-03-31,AstraZeneca,Wallonia,8120,10,81200,12,97440
+2021-03-31,AstraZeneca,Brussels,2640,10,26400,12,31680
+2021-03-31,AstraZeneca,Ostbelgien,190,10,1900,12,2280
+2021-04-05,Pfizer/BioNTech,Ostbelgien,390,6,2340,7,2730
+2021-04-06,Pfizer/BioNTech,Flanders,25740,6,154440,7,180180
+2021-04-06,Pfizer/BioNTech,Wallonia,13845,6,83070,7,96915
+2021-04-06,Pfizer/BioNTech,Brussels,4680,6,28080,7,32760
+2021-04-08,Moderna,Flanders,4650,10,46500,12,55800
+2021-04-08,Moderna,Wallonia,2520,10,25200,12,30240
+2021-04-08,Moderna,Brussels,820,10,8200,12,9840
+2021-04-08,Moderna,Ostbelgien,50,10,500,12,600
+2021-04-08,Moderna,Other,80,10,800,12,960
+2021-04-08,Moderna,Stock,-80,10,-800,12,-960
+2021-04-11,AstraZeneca,Flanders,1940,10,19400,12,23280
+2021-04-11,AstraZeneca,Wallonia,1050,10,10500,12,12600
+2021-04-11,AstraZeneca,Brussels,340,10,3400,12,4080
+2021-04-11,AstraZeneca,Ostbelgien,30,10,300,12,360
+2021-04-11,AstraZeneca,Other,-120,10,-1200,12,-1440
+2021-04-11,AstraZeneca,Stock,120,10,1200,12,1440
+2021-04-12,Janssen (J&J),Flanders,4160,5,20800,6,24960
+2021-04-12,Pfizer/BioNTech,Flanders,25740,6,154440,7,180180
+2021-04-12,Janssen (J&J),Wallonia,2260,5,11300,6,13560
+2021-04-12,Pfizer/BioNTech,Wallonia,13650,6,81900,7,95550
+2021-04-12,Janssen (J&J),Brussels,720,5,3600,6,4320
+2021-04-12,Pfizer/BioNTech,Brussels,4290,6,25740,7,30030
+2021-04-12,Janssen (J&J),Ostbelgien,60,5,300,6,360
+2021-04-12,Pfizer/BioNTech,Ostbelgien,390,6,2340,7,2730
+2021-04-13,Pfizer/BioNTech,Wallonia,390,6,2340,7,2730
+2021-04-13,Pfizer/BioNTech,Brussels,195,6,1170,7,1365
+2021-04-18,AstraZeneca,Flanders,4790,10,47900,12,57480
+2021-04-18,AstraZeneca,Wallonia,2600,10,26000,12,31200
+2021-04-18,AstraZeneca,Brussels,840,10,8400,12,10080
+2021-04-18,AstraZeneca,Ostbelgien,50,10,500,12,600
+2021-04-18,AstraZeneca,Stock,-120,10,-1200,12,-1440
+2021-04-19,Pfizer/BioNTech,Flanders,25935,6,155610,7,181545
+2021-04-19,Pfizer/BioNTech,Wallonia,14040,6,84240,7,98280
+2021-04-19,Pfizer/BioNTech,Brussels,4680,6,28080,7,32760
+2021-04-19,Pfizer/BioNTech,Ostbelgien,390,6,2340,7,2730
+2021-04-19,Pfizer/BioNTech,Stock,-195,6,-1170,7,-1365
+2021-04-23,AstraZeneca,Flanders,1520,10,15200,12,18240
+2021-04-23,AstraZeneca,Wallonia,830,10,8300,12,9960
+2021-04-23,AstraZeneca,Brussels,270,10,2700,12,3240
+2021-04-23,AstraZeneca,Ostbelgien,20,10,200,12,240
+2021-04-24,Moderna,Flanders,2560,10,25600,12,30720
+2021-04-24,Moderna,Wallonia,1390,10,13900,12,16680
+2021-04-24,Moderna,Brussels,450,10,4500,12,5400
+2021-04-24,Moderna,Ostbelgien,30,10,300,12,360
+2021-04-24,Moderna,Other,40,10,400,12,480
+2021-04-24,Moderna,Stock,90,10,900,12,1080
+2021-04-26,Pfizer/BioNTech,Other,390,6,2340,7,2730
+2021-04-26,Pfizer/BioNTech,Stock,-390,6,-2340,7,-2730
+2021-04-26,Pfizer/BioNTech,Flanders,38220,6,229320,7,267540
+2021-04-26,Pfizer/BioNTech,Wallonia,20670,6,124020,7,144690
+2021-04-26,Pfizer/BioNTech,Brussels,6630,6,39780,7,46410
+2021-04-26,Pfizer/BioNTech,Ostbelgien,585,6,3510,7,4095
+2021-04-29,Janssen (J&J),Flanders,3460,5,17300,6,20760
+2021-04-29,Janssen (J&J),Wallonia,1880,5,9400,6,11280
+2021-04-29,Janssen (J&J),Brussels,620,5,3100,6,3720
+2021-04-29,Janssen (J&J),Ostbelgien,40,5,200,6,240
+2021-04-30,Moderna,Flanders,3050,10,30500,12,36600
+2021-04-30,Moderna,Wallonia,1650,10,16500,12,19800
+2021-04-30,Moderna,Brussels,540,10,5400,12,6480
+2021-04-30,Moderna,Ostbelgien,40,10,400,12,480
+2021-05-02,AstraZeneca,Flanders,22340,10,223400,12,268080
+2021-05-02,AstraZeneca,Wallonia,12110,10,121100,12,145320
+2021-05-02,AstraZeneca,Brussels,3930,10,39300,12,47160
+2021-05-02,AstraZeneca,Ostbelgien,260,10,2600,12,3120
+2021-05-03,Pfizer/BioNTech,Other,390,6,2340,7,2730
+2021-05-03,Pfizer/BioNTech,Stock,-390,6,-2340,7,-2730
+2021-05-03,Pfizer/BioNTech,Flanders,34905,6,209430,7,244335
+2021-05-03,Pfizer/BioNTech,Wallonia,18720,6,112320,7,131040
+2021-05-03,Pfizer/BioNTech,Brussels,6045,6,36270,7,42315
+2021-05-03,Pfizer/BioNTech,Ostbelgien,585,6,3510,7,4095
+2021-05-06,Moderna,Flanders,4440,10,44400,12,53280
+2021-05-06,Moderna,Wallonia,2410,10,24100,12,28920
+2021-05-06,Moderna,Brussels,780,10,7800,12,9360
+2021-05-06,Moderna,Ostbelgien,50,10,500,12,600
+2021-05-10,Pfizer/BioNTech,Other,390,6,2340,7,2730
+2021-05-10,Pfizer/BioNTech,Stock,-390,6,-2340,7,-2730
+2021-05-10,Pfizer/BioNTech,Flanders,34710,6,208260,7,242970
+2021-05-10,Pfizer/BioNTech,Wallonia,18915,6,113490,7,132405
+2021-05-10,Pfizer/BioNTech,Brussels,6240,6,37440,7,43680
+2021-05-10,Pfizer/BioNTech,Ostbelgien,390,6,2340,7,2730
+2021-05-11,AstraZeneca,Flanders,4300,10,43000,12,51600
+2021-05-11,AstraZeneca,Wallonia,2330,10,23300,12,27960
+2021-05-11,AstraZeneca,Brussels,760,10,7600,12,9120
+2021-05-11,AstraZeneca,Ostbelgien,50,10,500,12,600
+2021-05-12,Janssen (J&J),Flanders,4160,5,20800,6,24960
+2021-05-12,Janssen (J&J),Wallonia,2260,5,11300,6,13560
+2021-05-12,Janssen (J&J),Brussels,740,5,3700,6,4440
+2021-05-12,Janssen (J&J),Ostbelgien,40,5,200,6,240
+2021-05-16,Moderna,Flanders,4440,10,44400,12,53280
+2021-05-16,Moderna,Wallonia,2410,10,24100,12,28920
+2021-05-16,Moderna,Brussels,780,10,7800,12,9360
+2021-05-16,Moderna,Ostbelgien,50,10,500,12,600
+2021-05-17,Pfizer/BioNTech,Other,585,6,3510,7,4095
+2021-05-17,Pfizer/BioNTech,Flanders,34710,6,208260,7,242970
+2021-05-17,Pfizer/BioNTech,Wallonia,18915,6,113490,7,132405
+2021-05-17,Pfizer/BioNTech,Brussels,6045,6,36270,7,42315
+2021-05-17,Pfizer/BioNTech,Ostbelgien,390,6,2340,7,2730
+2021-05-20,Janssen (J&J),Flanders,4720,5,23600,6,28320
+2021-05-20,Moderna,Flanders,4440,10,44400,12,53280
+2021-05-20,Janssen (J&J),Wallonia,2560,5,12800,6,15360
+2021-05-20,Moderna,Wallonia,2410,10,24100,12,28920
+2021-05-20,Janssen (J&J),Brussels,830,5,4150,6,4980
+2021-05-20,Moderna,Brussels,780,10,7800,12,9360
+2021-05-20,Janssen (J&J),Ostbelgien,50,5,250,6,300
+2021-05-20,Moderna,Ostbelgien,50,10,500,12,600
+2021-05-20,Moderna,Other,70,10,700,12,840
+2021-05-20,Moderna,Stock,-70,10,-700,12,-840
+2021-05-21,AstraZeneca,Flanders,3750,10,37500,12,45000
+2021-05-21,AstraZeneca,Wallonia,2000,10,20000,12,24000
+2021-05-21,AstraZeneca,Brussels,690,10,6900,12,8280
+2021-05-21,AstraZeneca,Ostbelgien,40,10,400,12,480
+2021-05-21,AstraZeneca,Other,50,10,500,12,600
+2021-05-21,AstraZeneca,Stock,-50,10,-500,12,-600
+2021-05-24,Pfizer/BioNTech,Other,195,6,1170,7,1365
+2021-05-24,Pfizer/BioNTech,Flanders,34905,6,209430,7,244335
+2021-05-24,Pfizer/BioNTech,Brussels,-195,6,-1170,7,-1365
+2021-05-25,Pfizer/BioNTech,Stock,195,6,1170,7,1365
+2021-05-25,Pfizer/BioNTech,Wallonia,18915,6,113490,7,132405
+2021-05-25,Pfizer/BioNTech,Brussels,6240,6,37440,7,43680
+2021-05-25,Pfizer/BioNTech,Ostbelgien,390,6,2340,7,2730
+2021-05-28,Janssen (J&J),Flanders,9720,5,48600,6,58320
+2021-05-28,Moderna,Flanders,4440,10,44400,12,53280
+2021-05-28,Janssen (J&J),Wallonia,5260,5,26300,6,31560
+2021-05-28,Moderna,Wallonia,2410,10,24100,12,28920
+2021-05-28,Janssen (J&J),Brussels,1700,5,8500,6,10200
+2021-05-28,Moderna,Brussels,780,10,7800,12,9360
+2021-05-28,Janssen (J&J),Ostbelgien,120,5,600,6,720
+2021-05-28,Moderna,Ostbelgien,50,10,500,12,600
+2021-05-31,Pfizer/BioNTech,Stock,195,6,1170,7,1365
+2021-05-31,Pfizer/BioNTech,Other,585,6,3510,7,4095
+2021-05-31,Pfizer/BioNTech,Flanders,70395,6,422370,7,492765
+2021-05-31,Pfizer/BioNTech,Wallonia,38025,6,228150,7,266175
+2021-05-31,Pfizer/BioNTech,Brussels,12285,6,73710,7,85995
+2021-05-31,Pfizer/BioNTech,Ostbelgien,780,6,4680,7,5460
+2021-06-01,AstraZeneca,Flanders,19350,10,193500,12,232200
+2021-06-01,AstraZeneca,Wallonia,10480,10,104800,12,125760
+2021-06-01,AstraZeneca,Brussels,3410,10,34100,12,40920
+2021-06-01,AstraZeneca,Ostbelgien,230,10,2300,12,2760
+2021-06-01,AstraZeneca,Stock,50,10,500,12,600
+2021-06-02,Janssen (J&J),Flanders,9320,5,46600,6,55920
+2021-06-02,Janssen (J&J),Wallonia,5060,5,25300,6,30360
+2021-06-02,Janssen (J&J),Brussels,1640,5,8200,6,9840
+2021-06-02,Janssen (J&J),Ostbelgien,100,5,500,6,600
+2021-06-02,Janssen (J&J),Stock,1000,5,5000,6,6000
+2021-06-04,Moderna,Flanders,4440,10,44400,12,53280
+2021-06-04,Moderna,Wallonia,2400,10,24000,12,28800
+2021-06-04,Moderna,Brussels,780,10,7800,12,9360
+2021-06-04,Moderna,Ostbelgien,50,10,500,12,600
+2021-06-04,Moderna,Other,20,10,200,12,240
+2021-06-04,Moderna,Stock,-10,10,-100,12,-120
+2021-06-07,Pfizer/BioNTech,Stock,390,6,2340,7,2730
+2021-06-07,Pfizer/BioNTech,Other,585,6,3510,7,4095
+2021-06-07,Pfizer/BioNTech,Flanders,62595,6,375570,7,438165
+2021-06-07,Pfizer/BioNTech,Wallonia,33930,6,203580,7,237510
+2021-06-07,Pfizer/BioNTech,Brussels,11115,6,66690,7,77805
+2021-06-07,Pfizer/BioNTech,Ostbelgien,780,6,4680,7,5460
+2021-06-09,AstraZeneca,Flanders,5830,10,58300,12,69960
+2021-06-09,AstraZeneca,Wallonia,3160,10,31600,12,37920
+2021-06-09,AstraZeneca,Brussels,1020,10,10200,12,12240
+2021-06-09,AstraZeneca,Ostbelgien,70,10,700,12,840
+2021-06-09,AstraZeneca,Other,50,10,500,12,600
+2021-06-09,AstraZeneca,Stock,-50,10,-500,12,-600
+2021-06-10,Janssen (J&J),Flanders,4160,5,20800,6,24960
+2021-06-10,Janssen (J&J),Wallonia,2260,5,11300,6,13560
+2021-06-10,Janssen (J&J),Brussels,740,5,3700,6,4440
+2021-06-10,Janssen (J&J),Ostbelgien,40,5,200,6,240
+2021-06-14,Pfizer/BioNTech,Stock,390,6,2340,7,2730
+2021-06-14,Pfizer/BioNTech,Other,390,6,2340,7,2730
+2021-06-14,Pfizer/BioNTech,Flanders,62790,6,376740,7,439530
+2021-06-14,Pfizer/BioNTech,Wallonia,33930,6,203580,7,237510
+2021-06-14,Pfizer/BioNTech,Brussels,11115,6,66690,7,77805
+2021-06-14,Pfizer/BioNTech,Ostbelgien,780,6,4680,7,5460
+2021-06-15,Moderna,Flanders,4430,10,44300,12,53160
+2021-06-15,Moderna,Wallonia,2400,10,24000,12,28800
+2021-06-15,Moderna,Brussels,780,10,7800,12,9360
+2021-06-15,Moderna,Ostbelgien,50,10,500,12,600
+2021-06-15,Moderna,Stock,20,10,200,12,240
+2021-06-17,AstraZeneca,Flanders,7220,10,72200,12,86640
+2021-06-17,Janssen (J&J),Flanders,4160,5,20800,6,24960
+2021-06-17,AstraZeneca,Wallonia,3910,10,39100,12,46920
+2021-06-17,Janssen (J&J),Wallonia,2260,5,11300,6,13560
+2021-06-17,AstraZeneca,Brussels,1270,10,12700,12,15240
+2021-06-17,Janssen (J&J),Brussels,740,5,3700,6,4440
+2021-06-17,AstraZeneca,Ostbelgien,80,10,800,12,960
+2021-06-17,Janssen (J&J),Ostbelgien,40,5,200,6,240
+2021-06-18,Moderna,Flanders,4710,10,47100,12,56520
+2021-06-18,Moderna,Wallonia,2550,10,25500,12,30600
+2021-06-18,Moderna,Brussels,830,10,8300,12,9960
+2021-06-18,Moderna,Ostbelgien,50,10,500,12,600
+2021-06-18,Moderna,Stock,20,10,200,12,240
+2021-06-21,Pfizer/BioNTech,Other,390,6,2340,7,2730
+2021-06-21,Pfizer/BioNTech,Flanders,78000,6,468000,7,546000
+2021-06-21,Pfizer/BioNTech,Wallonia,42315,6,253890,7,296205
+2021-06-21,Pfizer/BioNTech,Brussels,13650,6,81900,7,95550
+2021-06-21,Pfizer/BioNTech,Ostbelgien,780,6,4680,7,5460
+2021-06-24,Janssen (J&J),Flanders,2200,5,11000,6,13200
+2021-06-24,Janssen (J&J),Wallonia,1200,5,6000,6,7200
+2021-06-24,Janssen (J&J),Brussels,380,5,1900,6,2280
+2021-06-24,Janssen (J&J),Ostbelgien,20,5,100,6,120
+2021-06-24,Janssen (J&J),Stock,1000,5,5000,6,6000
+2021-06-25,Moderna,Flanders,4910,10,49100,12,58920
+2021-06-25,Moderna,Wallonia,2660,10,26600,12,31920
+2021-06-25,Moderna,Brussels,870,10,8700,12,10440
+2021-06-25,Moderna,Ostbelgien,60,10,600,12,720
+2021-06-25,Moderna,Stock,20,10,200,12,240
